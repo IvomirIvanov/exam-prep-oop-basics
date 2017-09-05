@@ -1,0 +1,6 @@
+C:\Users\sprel\Documents\Visual Studio 2015\Projects\PIzzaForum\MinedraftExam\Minedraft\bin\Debug\Minedraft.exe.config
+C:\Users\sprel\Documents\Visual Studio 2015\Projects\PIzzaForum\MinedraftExam\Minedraft\bin\Debug\Minedraft.exe
+C:\Users\sprel\Documents\Visual Studio 2015\Projects\PIzzaForum\MinedraftExam\Minedraft\bin\Debug\Minedraft.pdb
+C:\Users\sprel\Documents\Visual Studio 2015\Projects\PIzzaForum\MinedraftExam\Minedraft\obj\Debug\Minedraft.csprojResolveAssemblyReference.cache
+C:\Users\sprel\Documents\Visual Studio 2015\Projects\PIzzaForum\MinedraftExam\Minedraft\obj\Debug\Minedraft.exe
+C:\Users\sprel\Documents\Visual Studio 2015\Projects\PIzzaForum\MinedraftExam\Minedraft\obj\Debug\Minedraft.pdb
